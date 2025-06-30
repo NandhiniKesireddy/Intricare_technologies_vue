@@ -1,0 +1,1 @@
+# Intricare_technologies_vue
