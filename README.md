@@ -35,9 +35,9 @@ Ideal for learning how to use Vue 3 with Vuetify 3 and Pinia in a real-world e-c
 ## 🛠️ Technologies Used
 
 - [Vue 3](https://vuejs.org/)
-- [Vuetify 3](https://vuetifyjs.com/)
+- [Vuetify 3](https://vuetifyjs.com/) - for styling components
 - [Pinia](https://pinia.vuejs.org/) – for state management
-- [Vue Router](https://router.vuejs.org/)
+- [Vue Router](https://router.vuejs.org/) - for navigation
 - [FakeStoreAPI](https://fakestoreapi.com/) – for mock product data
 - [Vite](https://vitejs.dev/) or Vue CLI – project scaffolding and build tools
 
