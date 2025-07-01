@@ -4,6 +4,12 @@ A responsive and interactive e-commerce dashboard built with **Vue 3** and **Vue
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Click here to view the live demo](https://fakestoreapidashboard.netlify.app/)
+
+---
+
 ## 📖 About
 
 This dashboard is a frontend interface for managing products, providing users the ability to:
@@ -39,7 +45,7 @@ Ideal for learning how to use Vue 3 with Vuetify 3 and Pinia in a real-world e-c
 - [Pinia](https://pinia.vuejs.org/) – for state management
 - [Vue Router](https://router.vuejs.org/) - for navigation
 - [FakeStoreAPI](https://fakestoreapi.com/) – for mock product data
-- [Vite](https://vitejs.dev/) or Vue CLI – project scaffolding and build tools
+- Vue CLI – project scaffolding and build tools
 
 ---
 
@@ -65,3 +71,12 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## 👩‍💻 Author
+
+**Nandhini Kesireddy**  
+📧 Email: [kesireddynandhini99@gmail.com](mailto:kesireddynandhini99@gmail.com)  
+🔗 GitHub: [@NandhiniKesireddy](https://github.com/NandhiniKesireddy)  
+🔗 LinkedIn: [Nandhini Kesireddy](https://www.linkedin.com/in/nandhini-kesireddy/)
+
